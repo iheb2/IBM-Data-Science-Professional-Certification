@@ -53,4 +53,3 @@
 **Question 10) Perform a second order polynomial transform on both the training data and testing data. Create and fit a Ridge regression object using the training data, setting the regularisation parameter to 0.1. Calculate the R^2 utilising the test data provided. Take a screenshot of your code and the R^2.**
 ![ridge on polynomial](Q10.jpg)
 
-**Share the link for your notebook:** [URL](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3cd171cd-9b26-4dd3-b2d5-d02c4dcda826/view?access_token=aad17c79b4b9813b71caf706b64943a36be90d47b8097c031d005387c7bc8a86)
