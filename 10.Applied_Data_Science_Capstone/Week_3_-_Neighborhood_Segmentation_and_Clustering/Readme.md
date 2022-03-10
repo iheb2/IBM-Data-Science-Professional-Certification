@@ -10,4 +10,4 @@ In this module, you will learn about k-means clustering, which is a form of unsu
 
 ## My Final Assignment Notebook 
 
-[Notebook](https://nbviewer.jupyter.org/github/Thomas-George-T/IBM-Data-Science-Professional-Certification/blob/master/9.Applied_Data_Science_Capstone/Week_3_-_Neighborhood_Segmentation_and_Clustering/Applied_Capstone_Week_3_Assignment.ipynb)
+[Notebook](https://github.com/iheb2/IBM-Data-Science-Professional-Certification/blob/master/10.Applied_Data_Science_Capstone/Week_3_-_Neighborhood_Segmentation_and_Clustering/Applied_Capstone_Week_3_Assignment.ipynb)
